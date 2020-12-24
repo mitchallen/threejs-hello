@@ -24,9 +24,9 @@ export class CubeSceneFactory {
       { color: "#00FF00", width: 0.5, height: 2.0, depth: 0.5 },
       { color: "#0000FF", width: 2.0, height: 0.5, depth: 0.5 },
       { color: "#FF00FF", width: 0.5, height: 0.5, depth: 2.0 },
-      { color: "#FFFF00", x: 3.0 },
+      { color: "#FFFF00", x:  3.0 },
       { color: "#FF6619", x: -3.0 },
-      { color: "#AAAAAA", y: 2.0,  z: -0.05, width: 0.5, height: 0.5, depth: 2 },
+      { color: "#AAAAAA", y:  2.0, z: -0.05, width: 0.5, height: 0.5, depth: 2 },
       { color: "#04D9FF", y: -2.0, z:  0.05, width: 0.5, height: 0.5, depth: 2 },
     ];
 
